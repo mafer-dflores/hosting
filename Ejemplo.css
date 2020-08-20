@@ -1,0 +1,11 @@
+body{
+    background-image:url(https://static.vecteezy.com/system/resources/previews/000/138/211/original/vector-patr-n-de-corazones.jpg); 
+}
+
+h1{
+    font-family: monospace;
+    font-size: 50px;
+    color:black; 
+    text-align: center;
+    padding: 50px;
+}
